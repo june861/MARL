@@ -2,7 +2,8 @@
 '''
 @File    :   mlp.py
 @Time    :   2024/10/27 19:11:27
-@Author  :   junewluo 
+@Author  :   junewluo
+@Description : There will be implement a MLPLayer Class which will implement a forward mlp layers without last layer.
 '''
 
 import torch

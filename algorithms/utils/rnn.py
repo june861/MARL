@@ -8,6 +8,8 @@
 import torch
 import torch.nn as nn
 
+
+
 class RNNLayer(nn.Module):
     def __init__(self):
         super(RNNLayer, self).__init__()
